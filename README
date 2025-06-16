@@ -1,0 +1,16 @@
+Nome do Projeto: Busca de Solicitações Descrição: Este projeto consiste em um sistema web para a pesquisa de solicitações por meio de filtros específicos. Os usuários podem buscar por Nome, Protocolo e Situação, utilizando um campo de entrada e um menu dropdown. O sistema exibe os resultados filtrados em uma tabela dinâmica. Tecnologias Utilizadas: HTML, CSS, JavaScript Objetivo: Facilitar a busca eficiente de registros, oferecendo uma interface intuitiva e responsiva.
+
+# Busca de Solicitações
+
+## Descrição
+Este projeto é um sistema web para busca de solicitações, permitindo pesquisar por **Nome**, **Protocolo** e **Situação** de forma rápida e dinâmica. Os resultados são exibidos em uma tabela interativa.
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript ES6
+
+## Como Usar
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/busca-solicitacoes.git
