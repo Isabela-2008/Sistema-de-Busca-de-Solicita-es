@@ -1,0 +1,14 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Node.js (caso inclua bibliotecas futuras)
+node_modules/
+
+# Arquivos gerados
+dist/
+*.log
